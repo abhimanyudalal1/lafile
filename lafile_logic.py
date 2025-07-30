@@ -15,4 +15,6 @@ lafilamod= OllamaLLM(
 from sentence_transformers import SentenceTransformer
 embeds=input("Me lord! Please enter the path file so i can be of service..:")
 token=embeds
-lafilamod.invoke(token)
+
+response= lafilamod.invoke(token)
+print(response)
