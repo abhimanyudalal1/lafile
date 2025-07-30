@@ -1,1 +1,3 @@
-d
+so this is a llm powered advanced file searcher
+initially this will fetch any file from machine and make changes to it in natural language
+lets see where it goes from there on...
